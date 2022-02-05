@@ -1,2 +1,2 @@
 server.port: 1600
-client-microservice.value: "hello from production"
+client-microservice.value: "hello from production updated"
