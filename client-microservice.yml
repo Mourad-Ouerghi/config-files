@@ -1,2 +1,2 @@
 server.port: 1200
-client-microservice.value: "hello from default"
+client-microservice.value: "hello from default updated"
