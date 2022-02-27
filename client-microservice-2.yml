@@ -1,2 +1,2 @@
 server.port: 2000
-client-microservice.value: "hello from default updated"
+client-microservice.ribbon.listOfServers: http://localhost:1200,http://localhost:1100,http://localhost:1000
