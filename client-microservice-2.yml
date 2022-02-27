@@ -1,2 +1,1 @@
 server.port: 2000
-#client-microservice.ribbon.listOfServers: http://localhost:1200,http://localhost:1100
